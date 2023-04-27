@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841483127745",
+    "project_id": "flutter-9ae4e",
+    "storage_bucket": "flutter-9ae4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841483127745:android:72836c7c6398141557fd40",
+        "android_client_info": {
+          "package_name": "com.apk.rent_books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841483127745-dmnq3mgmm79tlfv9ic22f8ts1i5of6sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3nmbvvZ137DcCha0LyyWTL1AhluUFRr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841483127745-dmnq3mgmm79tlfv9ic22f8ts1i5of6sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
